@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+}
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+.todo-list {
+    list-style: none;
+}
+
+.todo-list li {
+    margin: 10px auto;
+    border-radius: 5px;
+    background-color: rgb(73, 199, 199);
+}
+
+.sub-item{
+    list-style: square outside;
+}

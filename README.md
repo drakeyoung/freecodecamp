@@ -1,2 +1,1 @@
-# freecodecamp
-English from freecodecamp
+# FreeCodeCamp
